@@ -1,0 +1,27 @@
+# Node modules
+node_modules
+
+# Biên dịch TypeScript
+dist/
+build/
+
+# File log
+*.log
+npm-debug.log*
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# VSCode config
+.vscode/
+
+# Env file
+.env
+
+# Cache
+*.tsbuildinfo
+.cache/
+
+# Test coverage
+coverage/
